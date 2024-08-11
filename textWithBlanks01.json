@@ -176,21 +176,7 @@
         "authors": [
             "mottardj"
         ]
-    },
-    {
-        "title": "EXERCICE Félin",
-        "statement": "Compléter le code pour que le code soit fonctionnel et puisse afficher ce que dit le chat",
-        "textWithBlanks": "\rep{print}('miaou ?')\nprintrep{(}'miaou'rep{)}\nprint('MIAOU !!!')",
-        "notions": [
-            "python",
-            "string",
-            "print",
-            "syntaxe"
-        ],
-        "authors": [
-            "gizmo",
-            "mottardj"
-        ]
-    }  
+    }
+    
 ]
 }
