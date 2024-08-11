@@ -1,6 +1,18 @@
 {
     "exercises" : [
-     
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer une variable nommée quantite et assigner la valeur 482",
+        "textWithBlanks": "rep{quantite} = rep{482}",
+        "notions": [
+            "variable",
+            "python",
+            "integer"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
     {
         "title": "EXERCICE",
         "textWithBlanks": "rep{pays} = 'rep{Suisse}'",
@@ -177,6 +189,5 @@
             "mottardj"
         ]
     }
-    
 ]
 }
