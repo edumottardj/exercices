@@ -72,22 +72,22 @@
       ],
       "definitions": [
             { "number": "0", "word": "0", "definition": "Le nombre 0 convertit en base 2." },
-            { "number": "1", "word": '1', "definition": "Le nombre 1 convertit en base 2." },
-            { "number": '2', "word": '10', "definition": "Le nombre 2 convertit en base 2." },
-            { "number": '3', "word": '11', "definition": "Le nombre 3 convertit en base 2." },
-            { "number": '4', "word": '100', "definition": "Le nombre 4 convertit en base 2." },
-            { "number": '5', "word": '101', "definition": "Le nombre 5 convertit en base 2.." },
-            { "number": '6', "word": '110', "definition": "Le nombre 6 convertit en base 2." },
-            { "number": '7', "word": '111', "definition": "Le nombre 7 convertit en base 2." },
-            { "number": '8', "word": '1000', "definition": "Le nombre 8 convertit en base 2." },
-            { "number": '9', "word": '1001', "definition": "Le nombre 9 convertit en base 2." },
-            { "number": '10', "word": '1010', "definition": "Le nombre 10 convertit en base 2." },
-            { "number": '11', "word": '1011', "definition": "Le nombre 11 convertit en base 2." },
-            { "number": '12', "word": '1100', "definition": "Le nombre 12 convertit en base 2." },
-            { "number": '13', "word": '1101', "definition": "Le nombre 13 convertit en base 2." },
-            { "number": '14', "word": '1110', "definition": "Le nombre 14 convertit en base 2." },
-            { "number": '15', "word": '1111', "definition": "Le nombre 15 convertit en base 2." },
-            { "number": '16', "word": '10000', "definition": "Le nombre 16 convertit en base 2." }
+            { "number": "1", "word": "1", "definition": "Le nombre 1 convertit en base 2." },
+            { "number": "2", "word": "10", "definition": "Le nombre 2 convertit en base 2." },
+            { "number": "3", "word": "11", "definition": "Le nombre 3 convertit en base 2." },
+            { "number": "4", "word": "100", "definition": "Le nombre 4 convertit en base 2." },
+            { "number": "5", "word": "101", "definition": "Le nombre 5 convertit en base 2.." },
+            { "number": "6", "word": "110", "definition": "Le nombre 6 convertit en base 2." },
+            { "number": "7", "word": "111", "definition": "Le nombre 7 convertit en base 2." },
+            { "number": "8", "word": "1000", "definition": "Le nombre 8 convertit en base 2." },
+            { "number": "9", "word": "1001", "definition": "Le nombre 9 convertit en base 2." },
+            { "number": "10", "word": "1010", "definition": "Le nombre 10 convertit en base 2." },
+            { "number": "11", "word": "1011", "definition": "Le nombre 11 convertit en base 2." },
+            { "number": "12", "word": "1100", "definition": "Le nombre 12 convertit en base 2." },
+            { "number": "13", "word": "1101", "definition": "Le nombre 13 convertit en base 2." },
+            { "number": "14", "word": "1110", "definition": "Le nombre 14 convertit en base 2." },
+            { "number": "15", "word": "1111", "definition": "Le nombre 15 convertit en base 2." },
+            { "number": "16", "word": "10000", "definition": "Le nombre 16 convertit en base 2." }
 ]
     },
     {
@@ -114,23 +114,23 @@
 ["","","","","1","","","","","","","","","","","",""]
       ],
       "definitions": [
-            { number: '0', word: '00000', definition: "Le nombre 0 convertit en base 2." },
-            { number: '1', word: '00001', definition: "Le nombre 1 convertit en base 2." },
-            { number: '2', word: '00010', definition: "Le nombre 2 convertit en base 2." },
-            { number: '3', word: '00011', definition: "Le nombre 3 convertit en base 2." },
-            { number: '4', word: '00100', definition: "Le nombre 4 convertit en base 2." },
-            { number: '5', word: '00101', definition: "Le nombre 5 convertit en base 2.." },
-            { number: '6', word: '00110', definition: "Le nombre 6 convertit en base 2." },
-            { number: '7', word: '00111', definition: "Le nombre 7 convertit en base 2." },
-            { number: '8', word: '01000', definition: "Le nombre 8 convertit en base 2." },
-            { number: '9', word: '01001', definition: "Le nombre 9 convertit en base 2." },
-            { number: '10', word: '01010', definition: "Le nombre 10 convertit en base 2." },
-            { number: '11', word: '01011', definition: "Le nombre 11 convertit en base 2." },
-            { number: '12', word: '01100', definition: "Le nombre 12 convertit en base 2." },
-            { number: '13', word: '01101', definition: "Le nombre 13 convertit en base 2." },
-            { number: '14', word: '01110', definition: "Le nombre 14 convertit en base 2." },
-            { number: '15', word: '01111', definition: "Le nombre 15 convertit en base 2." },
-            { number: '16', word: '10000', definition: "Le nombre 16 convertit en base 2." }
+            { "number": "0", "word": "00000", "definition": "Le nombre 0 convertit en base 2." },
+            { "number": "1", "word": "00001", "definition": "Le nombre 1 convertit en base 2." },
+            { "number": "2", "word": "00010", "definition": "Le nombre 2 convertit en base 2." },
+            { "number": "3", "word": "00011", "definition": "Le nombre 3 convertit en base 2." },
+            { "number": "4", "word": "00100", "definition": "Le nombre 4 convertit en base 2." },
+            { "number": "5", "word": "00101", "definition": "Le nombre 5 convertit en base 2.." },
+            { "number": "6", "word": "00110", "definition": "Le nombre 6 convertit en base 2." },
+            { "number": "7", "word": "00111", "definition": "Le nombre 7 convertit en base 2." },
+            { "number": "8", "word": "01000", "definition": "Le nombre 8 convertit en base 2." },
+            { "number": "9", "word": "01001", "definition": "Le nombre 9 convertit en base 2." },
+            { "number": "10", "word": "01010", "definition": "Le nombre 10 convertit en base 2." },
+            { "number": "11", "word": "01011", "definition": "Le nombre 11 convertit en base 2." },
+            { "number": "12", "word": "01100", "definition": "Le nombre 12 convertit en base 2." },
+            { "number": "13", "word": "01101", "definition": "Le nombre 13 convertit en base 2." },
+            { "number": "14", "word": "01110", "definition": "Le nombre 14 convertit en base 2." },
+            { "number": "15", "word": "01111", "definition": "Le nombre 15 convertit en base 2." },
+            { "number": "16", "word": "10000", "definition": "Le nombre 16 convertit en base 2." }
       ]
     },
     {
@@ -159,20 +159,20 @@
 ["","","","","","","","1(7)","0",""]
       ],
       "definitions": [
-            { number: '1', word: '10011', definition: "Le nombre 19 convertit en base 2." },
-            { number: '2', word: '011', definition: "Le nombre 3 convertit en base 2." },
-            { number: '3', word: '11111', definition: "Le nombre 31 convertit en base 2." },
-            { number: '4', word: '1000', definition: "Le nombre 8 convertit en base 2." },
-            { number: '5', word: '10000000', definition: "Le nombre 128 convertit en base 2." },
-            { number: '6', word: '101', definition: "Le nombre 5 convertit en base 2." },
-            { number: '7', word: '10', definition: "Le nombre 2 convertit en base 2." },
-            { number: '8', word: '111111', definition: "Le nombre 63 convertit en base 2." },
-            { number: '9', word: '1011', definition: "Le nombre 11 convertit en base 2." },
-            { number: '10', word: '10111', definition: "Le nombre 23 convertit en base 2." },
-            { number: '11', word: '111', definition: "Le nombre 7 convertit en base 2." },
-            { number: '12', word: '0110', definition: "Le nombre 6 convertit en base 2." },
-            { number: '13', word: '1100', definition: "Le nombre 12 convertit en base 2." },
-            { number: '14', word: '101010', definition: "Le nombre 42 convertit en base 2." }
+            { "number": "1", "word": "10011", "definition": "Le nombre 19 convertit en base 2." },
+            { "number": "2", "word": "011", "definition": "Le nombre 3 convertit en base 2." },
+            { "number": "3", "word": "11111", "definition": "Le nombre 31 convertit en base 2." },
+            { "number": "4", "word": "1000", "definition": "Le nombre 8 convertit en base 2." },
+            { "number": "5", "word": "10000000", "definition": "Le nombre 128 convertit en base 2." },
+            { "number": "6", "word": "101", "definition": "Le nombre 5 convertit en base 2." },
+            { "number": "7", "word": "10", "definition": "Le nombre 2 convertit en base 2." },
+            { "number": "8", "word": "111111", "definition": "Le nombre 63 convertit en base 2." },
+            { "number": "9", "word": "1011", "definition": "Le nombre 11 convertit en base 2." },
+            { "number": "10", "word": "10111", "definition": "Le nombre 23 convertit en base 2." },
+            { "number": "11", "word": "111", "definition": "Le nombre 7 convertit en base 2." },
+            { "number": "12", "word": "0110", "definition": "Le nombre 6 convertit en base 2." },
+            { "number": "13", "word": "1100", "definition": "Le nombre 12 convertit en base 2." },
+            { "number": "14", "word": "101010", "definition": "Le nombre 42 convertit en base 2." }
       ]
     },
     {
@@ -195,16 +195,16 @@
 ["","","","","","","","0","","0","","0",""]
       ],
       "definitions": [
-            { number: '1', word: '11010', definition: "Le nombre 26 convertit en base 2." },
-            { number: '2', word: '01010', definition: "Le nombre 10 convertit en base 2." },
-            { number: '3', word: '11111', definition: "Le nombre 31 convertit en base 2." },
-            { number: '4', word: '01111', definition: "Le nombre 15 convertit en base 2." },
-            { number: '5', word: '1010000', definition: "Le nombre 80 convertit en base 2." },
-            { number: '6', word: '0101100', definition: "Le nombre 44 convertit en base 2.." },
-            { number: '7', word: '0001000', definition: "Le nombre 8 convertit en base 2." },
-            { number: '8', word: '0011100', definition: "Le nombre 28 convertit en base 2." },
-            { number: '9', word: '1001110', definition: "Le nombre 78 convertit en base 2." },
-            { number: '10', word: '1000100', definition: "Le nombre 68 convertit en base 2." }
+            { "number": "1", "word": "11010", "definition": "Le nombre 26 convertit en base 2." },
+            { "number": "2", "word": "01010", "definition": "Le nombre 10 convertit en base 2." },
+            { "number": "3", "word": "11111", "definition": "Le nombre 31 convertit en base 2." },
+            { "number": "4", "word": "01111", "definition": "Le nombre 15 convertit en base 2." },
+            { "number": "5", "word": "1010000", "definition": "Le nombre 80 convertit en base 2." },
+            { "number": "6", "word": "0101100", "definition": "Le nombre 44 convertit en base 2.." },
+            { "number": "7", "word": "0001000", "definition": "Le nombre 8 convertit en base 2." },
+            { "number": "8", "word": "0011100", "definition": "Le nombre 28 convertit en base 2." },
+            { "number": "9", "word": "1001110", "definition": "Le nombre 78 convertit en base 2." },
+            { "number": "10", "word": "1000100", "definition": "Le nombre 68 convertit en base 2." }
       ]
     },
     {
@@ -226,26 +226,26 @@
 ["","","","","","0(14)","1","1","0","0","1"]
       ],
       "definitions": [
-            { number: '1', word: '1110', definition: "Le nombre 14 convertit en base 2." },
-            { number: '2', word: '0010', definition: "Le nombre 2 convertit en base 2." },
-            { number: '3', word: '1011', definition: "Le nombre 11 convertit en base 2." },
-            { number: '4', word: '0111', definition: "Le nombre 7 convertit en base 2." },
-            { number: '5', word: '1010', definition: "Le nombre 10 convertit en base 2." },
-            { number: '6', word: '1001', definition: "Le nombre 9 convertit en base 2.." },
-            { number: '7', word: '1111', definition: "Le nombre 15 convertit en base 2." },
-            { number: '8', word: '0011', definition: "Le nombre 3 convertit en base 2." },
-            { number: '9', word: '100001', definition: "Le nombre 33 convertit en base 2." },
-            { number: '10', word: '010011', definition: "Le nombre 19 convertit en base 2." },
-            { number: '11', word: '001101', definition: "Le nombre 13 convertit en base 2." },
-            { number: '12', word: '000101', definition: "Le nombre 5 convertit en base 2." },
-            { number: '13', word: '000011', definition: "Le nombre 3 convertit en base 2." },
-            { number: '14', word: '011001', definition: "Le nombre 25 convertit en base 2." },
-            { number: '15', word: '100000', definition: "Le nombre 32 convertit en base 2." },
-            { number: '16', word: '010001', definition: "Le nombre 17 convertit en base 2." },
-            { number: '17', word: '001001', definition: "Le nombre 9 convertit en base 2." },
-            { number: '18', word: '001100', definition: "Le nombre 12 convertit en base 2." },
-            { number: '19', word: '010010', definition: "Le nombre 18 convertit en base 2." },
-            { number: '20', word: '111111', definition: "Le nombre 63 convertit en base 2." }
+            { "number": "1", "word": "1110", "definition": "Le nombre 14 convertit en base 2." },
+            { "number": "2", "word": "0010", "definition": "Le nombre 2 convertit en base 2." },
+            { "number": "3", "word": "1011", "definition": "Le nombre 11 convertit en base 2." },
+            { "number": "4", "word": "0111", "definition": "Le nombre 7 convertit en base 2." },
+            { "number": "5", "word": "1010", "definition": "Le nombre 10 convertit en base 2." },
+            { "number": "6", "word": "1001", "definition": "Le nombre 9 convertit en base 2.." },
+            { "number": "7", "word": "1111", "definition": "Le nombre 15 convertit en base 2." },
+            { "number": "8", "word": "0011", "definition": "Le nombre 3 convertit en base 2." },
+            { "number": "9", "word": "100001", "definition": "Le nombre 33 convertit en base 2." },
+            { "number": "10", "word": "010011", "definition": "Le nombre 19 convertit en base 2." },
+            { "number": "11", "word": "001101", "definition": "Le nombre 13 convertit en base 2." },
+            { "number": "12", "word": "000101", "definition": "Le nombre 5 convertit en base 2." },
+            { "number": "13", "word": "000011", "definition": "Le nombre 3 convertit en base 2." },
+            { "number": "14", "word": "011001", "definition": "Le nombre 25 convertit en base 2." },
+            { "number": "15", "word": "100000", "definition": "Le nombre 32 convertit en base 2." },
+            { "number": "16", "word": "010001", "definition": "Le nombre 17 convertit en base 2." },
+            { "number": "17", "word": "001001", "definition": "Le nombre 9 convertit en base 2." },
+            { "number": "18", "word": "001100", "definition": "Le nombre 12 convertit en base 2." },
+            { "number": "19", "word": "010010", "definition": "Le nombre 18 convertit en base 2." },
+            { "number": "20", "word": "111111", "definition": "Le nombre 63 convertit en base 2." }
       ]
     },
     {
@@ -269,7 +269,7 @@
 ["0(1)","0","0","0","0","0","0","1","","1(165)","0","1","0","0","1","0","1"]
       ],
       "definitions": [
-            { number: '0', word: 'xxxxxxx', definition: "Convertir le nombre en indice en base 2 dans la ligne ou colonne correspondante." }
+            { "number": "0", "word": "xxxxxxx", "definition": "Convertir le nombre en indice en base 2 dans la ligne ou colonne correspondante." }
       ]
     }
   ]
