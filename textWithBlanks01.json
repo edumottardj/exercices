@@ -1,4 +1,5 @@
-    const exercises = [
+{
+    "exercises" : [
     {
         "title": "EXERCICE",
         "statement": "Déclarer une variable nommée quantite et assigner la valeur 482",
@@ -188,4 +189,5 @@
             "mottardj"
         ]
     }
-];
+]
+}
