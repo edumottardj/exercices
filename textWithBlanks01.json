@@ -1,0 +1,191 @@
+    const exercises = [
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer une variable nommée quantite et assigner la valeur 482",
+        "textWithBlanks": "rep{quantite} = rep{482}",
+        "notions": [
+            "variable",
+            "python",
+            "integer"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "textWithBlanks": "rep{pays} = 'rep{Suisse}'",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "suisse"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "textWithBlanks": "rep{pi} = 3.14\nprint(pi)",
+        "notions": [
+            "variable",
+            "python",
+            "float",
+            "print",
+            "math"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Assigner une valeur à la variable capitale pour que le message afficher soit cohérent.",
+        "textWithBlanks": "rep{capitale} = 'rep{Bern}'\nprint('La capitale de la Suisse est', capitale)",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "print",
+            "suisse"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer deux variables x et y avec les valeurs 387 et 898  assignées et afficher leur somme.",
+        "textWithBlanks": "x = rep{387}\nrep{y} = 898\nrep{somme} = x rep{+} y\nprint(somme)",
+        "notions": [
+            "variable",
+            "python",
+            "integer",
+            "print",
+            "math"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer deux variables x1 et x2 avec les valeurs 85 et 19  assignées.\nFaire la différence de la première variable avec la deuxième puis afficher le résultat stocké en mémoire.",
+        "textWithBlanks": "rep{x1} = rep{85}\nx2 = rep{19}\nrep{difference} = rep{x1} - rep{x2}\nprint(difference)",
+        "notions": [
+            "variable",
+            "python",
+            "integer",
+            "print",
+            "math"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer deux variables qui sont des nombres à virgules, le premier 4.05 et le deuxième 11.7 puis afficher le produit de ces deux variables.",
+        "textWithBlanks": "facteur1 = rep{4.05}\nfacteur2 = rep{11.7}\nproduit = rep{facteur1} * facteur2\nrep{print}(produit)",
+        "notions": [
+            "variable",
+            "python",
+            "float",
+            "print",
+            "math"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Déclarer 3 films avec le nom de variable film# avec le hashtag correspondant à la numérotation dans l'ordre de déclaration. Le troisième film est 'Dune'.",
+        "textWithBlanks": "film1 = 'Retour vers le futur'\nrep{film2} = 'The Imitation Game'\nfilm3 = 'rep{Dune}'\nprint('Voici 3 titres de films :')\nprint(rep{film1})\nprint(film2)\nprint(film3)",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "print",
+            "film"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE",
+        "statement": "Compléter le code avec les éléments manquants.",
+        "textWithBlanks": "nombre_binaire_0 = '0'\nnombre_binaire_1 rep{=} '1'\nnombre_binaire_2 = '10'\nrep{nombre_binaire_3} = '11'\nnombre_binaire_4 = '100'\nprint('On écrit le nombre 3 en base 2 comme ceci :',nombre_binaire_3)",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "print",
+            "binaire"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE Noms de variables explicites",
+        "statement": "Noms de variable explicites : Compléter les langues à choix dans cet ordre : français, allemand et italien.",
+        "textWithBlanks": "langue01 = 'rep{français}'\nlangue02 = 'rep{allemand}'\nlangue03 = 'rep{italien}'",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "langue"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE Noms de variables courts",
+        "statement": "Compléter les langues à choix dans cet ordre : japonais, norvégien, russe",
+        "textWithBlanks": "l1 = 'rep{japonais}'\nl2 = 'rep{norvégien}'\nl3 = 'rep{russe}'",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "langue"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE Liste de valeurs",
+        "statement": "Compléter les langues à choix dans cet ordre : thaïlandais, arabe, espagnole",
+        "textWithBlanks": "langues = ['rep{thaïlandais}','rep{arabe}','rep{espagnole}']",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "liste",
+            "langue"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    },
+    {
+        "title": "EXERCICE Liste de valeurs",
+        "statement": "Compléter le code qui doit afficher la première langue de la liste.",
+        "textWithBlanks": "rep{langues} = ['fr','en','it']\nrep{print}(langues[0])",
+        "notions": [
+            "variable",
+            "python",
+            "string",
+            "liste",
+            "listeindex",
+            "langue"
+        ],
+        "authors": [
+            "mottardj"
+        ]
+    }
+];
