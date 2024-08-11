@@ -131,7 +131,7 @@ async function displayExerciseById(url, id) {
     const exercises = await loadExercisesFromURL(url);
     const exercise = exercises.find(ex => ex.id === id);
     if (exercise) {
-        const container = document.getElementById('exercise-container');
+        const container = document.getElementById('exercises-container');
         container.appendChild(exercise.createExerciseElement());
     } else {
         console.error('Exercise not found');
@@ -140,13 +140,13 @@ async function displayExerciseById(url, id) {
 
 async function displayExercisesByNotion(url, notion) {
     const exercises = await loadExercisesFromURL(url);
-    const container = document.getElementById('exercise-container');
+    const container = document.getElementById('exercises-container');
     exercises.filter(ex => ex.notions.includes(notion))
              .forEach(ex => container.appendChild(ex.createExerciseElement()));
 }
 
 async function displayAllExercises(url) {
     const exercises = await loadExercisesFromURL(url);
-    const container = document.getElementById('exercise-container');
+    const container = document.getElementById('exercises-container');
     exercises.forEach(ex => container.appendChild(ex.createExerciseElement()));
 }
