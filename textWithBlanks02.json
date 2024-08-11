@@ -1,7 +1,7 @@
 {
     "exercises" : [
 {
-        "id": = "0",
+        "id": 0,
         "title": "EXERCICE",
         "statement": "Déclarer une variable nommée quantite et assigner la valeur 482",
         "textWithBlanks": "rep{quantite} = rep{482}",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "id": = "1",
+        "id": "1",
         "title": "EXERCICE",
         "textWithBlanks": "rep{pays} = 'rep{Suisse}'",
         "notions": [
