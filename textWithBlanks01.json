@@ -203,25 +203,6 @@
             "gizmo",
             "mottardj"
         ]
-    }  ,
-{
-        "title": "EXERCICE Félin ?",
-        "statement": "Compléter le code pour que le code soit fonctionelle et cohérent",
-        "textWithBlanks": "rep{texte} = input('Ecris moi quelque chose :' )\nif texte rep{==} 'miaou' rep{:}\n\tprint('Oh un chat !')\nelse :\n\tprint('Hum, je vois ... intéressant.')",
-        "notions": [
-            "variable",
-            "python",
-            "if",
-            "comparateur",
-            "string",
-            "print",
-            "input",
-            "syntaxe"
-        ],
-        "authors": [
-            "mottardj",
-            "gizmo"
-        ]
-    }
+    }  
 ]
 }
