@@ -269,7 +269,7 @@
 ["0(1)","0","0","0","0","0","0","1","","1(165)","0","1","0","0","1","0","1"]
       ],
       "definitions": [
-            { number: '(x)', word: 'xxxxxxx', definition: "Convertir le nombre en indice en base 2 dans la ligne ou colonne correspondante." }
+            { number: '0', word: 'xxxxxxx', definition: "Convertir le nombre en indice en base 2 dans la ligne ou colonne correspondante." }
       ]
     }
   ]
