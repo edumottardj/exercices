@@ -1,19 +1,7 @@
 {
     "exercises" : [
-    {
-        "title": "EXERCICE TEST 2",
-        "statement": "???",
-        "textWithBlanks": "rep{quantite} = rep{482}",
-        "notions": [
-            "variable",
-            "python",
-            "integer"
-        ],
-        "authors": [
-            "mottardj"
-        ]
-    },
-    {
+{
+        "id": = 1,
         "title": "EXERCICE",
         "statement": "Déclarer une variable nommée quantite et assigner la valeur 482",
         "textWithBlanks": "rep{quantite} = rep{482}",
@@ -27,6 +15,7 @@
         ]
     },
     {
+        "id": = 2,
         "title": "EXERCICE",
         "textWithBlanks": "rep{pays} = 'rep{Suisse}'",
         "notions": [
@@ -40,6 +29,7 @@
         ]
     },
     {
+        "id": = 3,
         "title": "EXERCICE",
         "textWithBlanks": "rep{pi} = 3.14\nprint(pi)",
         "notions": [
@@ -54,6 +44,7 @@
         ]
     },
     {
+        "id": = 3,
         "title": "EXERCICE",
         "statement": "Assigner une valeur à la variable capitale pour que le message afficher soit cohérent.",
         "textWithBlanks": "rep{capitale} = 'rep{Bern}'\nprint('La capitale de la Suisse est', capitale)",
@@ -69,6 +60,7 @@
         ]
     },
     {
+        "id": = 4,
         "title": "EXERCICE",
         "statement": "Déclarer deux variables x et y avec les valeurs 387 et 898  assignées et afficher leur somme.",
         "textWithBlanks": "x = rep{387}\nrep{y} = 898\nrep{somme} = x rep{+} y\nprint(somme)",
@@ -84,6 +76,7 @@
         ]
     },
     {
+        "id": = 5,
         "title": "EXERCICE",
         "statement": "Déclarer deux variables x1 et x2 avec les valeurs 85 et 19  assignées.\nFaire la différence de la première variable avec la deuxième puis afficher le résultat stocké en mémoire.",
         "textWithBlanks": "rep{x1} = rep{85}\nx2 = rep{19}\nrep{difference} = rep{x1} - rep{x2}\nprint(difference)",
@@ -99,6 +92,7 @@
         ]
     },
     {
+        "id": = 6,
         "title": "EXERCICE",
         "statement": "Déclarer deux variables qui sont des nombres à virgules, le premier 4.05 et le deuxième 11.7 puis afficher le produit de ces deux variables.",
         "textWithBlanks": "facteur1 = rep{4.05}\nfacteur2 = rep{11.7}\nproduit = rep{facteur1} * facteur2\nrep{print}(produit)",
@@ -114,6 +108,7 @@
         ]
     },
     {
+        "id": = 7,
         "title": "EXERCICE",
         "statement": "Déclarer 3 films avec le nom de variable film# avec le hashtag correspondant à la numérotation dans l'ordre de déclaration. Le troisième film est 'Dune'.",
         "textWithBlanks": "film1 = 'Retour vers le futur'\nrep{film2} = 'The Imitation Game'\nfilm3 = 'rep{Dune}'\nprint('Voici 3 titres de films :')\nprint(rep{film1})\nprint(film2)\nprint(film3)",
@@ -129,6 +124,7 @@
         ]
     },
     {
+        "id": = 8,
         "title": "EXERCICE",
         "statement": "Compléter le code avec les éléments manquants.",
         "textWithBlanks": "nombre_binaire_0 = '0'\nnombre_binaire_1 rep{=} '1'\nnombre_binaire_2 = '10'\nrep{nombre_binaire_3} = '11'\nnombre_binaire_4 = '100'\nprint('On écrit le nombre 3 en base 2 comme ceci :',nombre_binaire_3)",
@@ -144,6 +140,7 @@
         ]
     },
     {
+        "id": = 9,
         "title": "EXERCICE Noms de variables explicites",
         "statement": "Noms de variable explicites : Compléter les langues à choix dans cet ordre : français, allemand et italien.",
         "textWithBlanks": "langue01 = 'rep{français}'\nlangue02 = 'rep{allemand}'\nlangue03 = 'rep{italien}'",
@@ -158,6 +155,7 @@
         ]
     },
     {
+        "id": = 10,
         "title": "EXERCICE Noms de variables courts",
         "statement": "Compléter les langues à choix dans cet ordre : japonais, norvégien, russe",
         "textWithBlanks": "l1 = 'rep{japonais}'\nl2 = 'rep{norvégien}'\nl3 = 'rep{russe}'",
@@ -172,6 +170,7 @@
         ]
     },
     {
+        "id": = 11,
         "title": "EXERCICE Liste de valeurs",
         "statement": "Compléter les langues à choix dans cet ordre : thaïlandais, arabe, espagnole",
         "textWithBlanks": "langues = ['rep{thaïlandais}','rep{arabe}','rep{espagnole}']",
@@ -187,6 +186,7 @@
         ]
     },
     {
+        "id": = 12,
         "title": "EXERCICE Liste de valeurs",
         "statement": "Compléter le code qui doit afficher la première langue de la liste.",
         "textWithBlanks": "rep{langues} = ['fr','en','it']\nrep{print}(langues[0])",
@@ -203,6 +203,7 @@
         ]
     },
         {
+            "id": = 13,
         "title": "EXERCICE Félin",
         "statement": "Compléter le code pour que le code soit fonctionnel et puisse afficher ce que dit le chat",
         "textWithBlanks": "rep{print}('miaou ?')\nprintrep{(}'miaou'rep{)}\nprint('MIAOU !!!')",
@@ -218,6 +219,7 @@
         ]
     },
 {
+    "id": = 14,
         "title": "EXERCICE Félin ?",
         "statement": "Compléter le code pour que le code soit fonctionelle et cohérent",
         "textWithBlanks": "rep{texte} = input('Ecris moi quelque chose :' )\nif texte rep{==} 'miaou' rep{:}\n\tprint('Oh un chat !')\nelse :\n\tprint('Hum, je vois ... intéressant.')",
@@ -237,6 +239,7 @@
         ]
     },
 {
+    "id": = 15,
         "title": "EXERCICE Miaulement sans fin",
         "statement": "Compléter le code pour que le programme ne soit pas bloqué dans une boucle infinie.",
         "textWithBlanks": "nombre_miaou = 0\nwhile nombre_miaou < 10 :\n\tprint('miaou')\n\tnombre_miaou rep{=} nombre_miaou rep{+} 1",
