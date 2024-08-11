@@ -113,8 +113,6 @@ class Exercise {
     }
 }
 
-
-
 async function loadExercisesFromURL(url) {
     try {
         const response = await fetch(url);
