@@ -235,6 +235,23 @@
             "mottardj",
             "gizmo"
         ]
+    },
+{
+        "title": "EXERCICE Miaulement sans fin",
+        "statement": "Compléter le code pour que le programme ne soit pas bloqué dans une boucle infinie.",
+        "textWithBlanks": "nombre_miaou = 0\nwhile nombre_miaou < 10 :\n\tprint('miaou')\n\tnombre_miaou rep{=} nombre_miaou rep{+} 1",
+        "notions": [
+            "variable",
+            "python",
+            "while",
+            "increment",
+            "string",
+            "print",
+            "syntaxe"
+        ],
+        "authors": [
+            "gizmo"
+        ]
     }
 ]
 }
