@@ -71,8 +71,8 @@
 ["1","","","","","","","","","","",""]
       ],
       "definitions": [
-            { "number": '0', "word": '0', "definition": "Le nombre 0 convertit en base 2." },
-            { "number": '1', "word": '1', "definition": "Le nombre 1 convertit en base 2." },
+            { "number": "0", "word": "0", "definition": "Le nombre 0 convertit en base 2." },
+            { "number": "1", "word": '1', "definition": "Le nombre 1 convertit en base 2." },
             { "number": '2', "word": '10', "definition": "Le nombre 2 convertit en base 2." },
             { "number": '3', "word": '11', "definition": "Le nombre 3 convertit en base 2." },
             { "number": '4', "word": '100', "definition": "Le nombre 4 convertit en base 2." },
