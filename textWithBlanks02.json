@@ -261,15 +261,14 @@
 {
     "id": 16,
         "title": "EXERCICE En matière d'avis",
-        "statement": "Compléter le code pour que le programme débute par un commentaire et que les noms de variables soient logiquement attribués.",
-        "textWithBlanks": "rep{\#} Ce code illustre l'utilisation des saisies clavier avec la fonction input\nrep{matiere} = input('Quelle est ta matière préférée ?')\nprint('Alors comme ça tu aime bien les cours de ', matiere)\nrep{avis} = input('Et que penses-tu de la science informatique ?')\nprint('J'ai bien entendu ?! Tu as dis \'',avis,'\'...', 3*'ah')",
+        "statement": "Ce code illustre l'utilisation des saisies clavier avec la fonction input. Compléter avec les bons noms de variables pour que l'affectation soit cohérente",
+        "textWithBlanks": "rep{matiere} = input('Quelle est ta matière préférée ?')\nprint('Alors comme ça tu aimes bien les cours de ', matiere)\nrep{avis} = input('Et que penses-tu de la science informatique ?')\nprint('J'ai bien entendu ?! Tu as dis \'',avis,'\'...', 3*'ah')",
         "notions": [
             "variable",
             "python",
             "input",
             "string",
-            "print",
-            "commentaire"
+            "print"
         ],
         "authors": [
             "mottardj"
