@@ -257,6 +257,24 @@
         "authors": [
             "gizmo"
         ]
+    },
+{
+    "id": 15,
+        "title": "EXERCICE Miaulement sans fin",
+        "statement": "Compléter le code pour que le programme ne soit pas bloqué dans une boucle infinie.",
+        "textWithBlanks": "rep{#} Ce code illustre l'utilisation des saisies clavier avec la fonction input\nrep{matiere} = input('Quelle est ta matière préférée ?')\nprint('Alors comme ça tu aime bien les cours de ', matiere)\nrep{avis} = input('Et que penses-tu de la science informatique ?')\nprint('J'ai bien entendu ?! Tu as dis \'',avis,'\'...', 3*'ah')        
+",
+        "notions": [
+            "variable",
+            "python",
+            "input",
+            "string",
+            "print",
+            "commentaire"
+        ],
+        "authors": [
+            "mottardj"
+        ]
     }
 ]
 }
