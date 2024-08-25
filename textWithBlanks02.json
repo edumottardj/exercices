@@ -17,6 +17,7 @@
     {
         "id": 1,
         "title": "EXERCICE",
+        "statement": "Déclarer une variable nommée pays et assigner la valeur 'Suisse'",
         "textWithBlanks": "rep{pays} = 'rep{Suisse}'",
         "notions": [
             "variable",
@@ -31,6 +32,7 @@
     {
         "id": 2,
         "title": "EXERCICE",
+        "statement": "Déclarer le bon nom de variable pour que le print affiche la valeur 3.14.",
         "textWithBlanks": "rep{pi} = 3.14\nprint(pi)",
         "notions": [
             "variable",
