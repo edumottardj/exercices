@@ -338,5 +338,6 @@
             { "number": "0", "word": "xxxxxxx", "definition": "Convertir le nombre en indice en base 2 dans la ligne ou colonne correspondante." }
       ]
     }
+  ]
       
 }
