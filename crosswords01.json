@@ -303,23 +303,23 @@
 ["","","","","","T","","","","","","","","","","","","","","","R","",""]
   ],
       "definitions": [
-            { "number": "0", "word": "BOOLEAN", "definition": "Type de donnée logique soit vrai soit faux." },
-            { "number": "1", "word": "SOURCE", "definition": "Nom donné au code avant qu'il ne soit traduit en code binaire." },
-            { "number": "2", "word": "PRINT", "definition": "Fonction qui sert à afficher du texte en console." },
-            { "number": "3", "word": "INTEGER", "definition": "Type de donnée des nombres entiers." },
-            { "number": "4", "word": "CONSOLE", "definition": "L'autre nom de l'invite de commande." },
-            { "number": "5", "word": "INSTRUCTIONS", "definition": "Un code est composé d'une suite d' ......" },
-            { "number": "6", "word": "ENVIRONNEMENT", "definition": "Un IDE est un ......... de programmation." },
+            { "number": "1", "word": "BOOLEAN", "definition": "Type de donnée logique soit vrai soit faux." },
+            { "number": "2", "word": "SOURCE", "definition": "Nom donné au code avant qu'il ne soit traduit en code binaire." },
+            { "number": "3", "word": "PRINT", "definition": "Fonction qui sert à afficher du texte en console." },
+            { "number": "4", "word": "INTEGER", "definition": "Type de donnée des nombres entiers." },
+            { "number": "5", "word": "CONSOLE", "definition": "L'autre nom de l'invite de commande." },
+            { "number": "6", "word": "INSTRUCTIONS", "definition": "Un code est composé d'une suite d' ......" },
+            { "number": "7", "word": "ENVIRONNEMENT", "definition": "Un IDE est un ......... de programmation." },
             { "number": "7", "word": "STRING", "definition": "Le terme anglais utilisé pour désigner une chaîne  de caractères." },
-            { "number": "8", "word": "PYTHON", "definition": "Langage de programmation textuel." },
-            { "number": "9", "word": "MODULO", "definition": "Opérateur qui donne le reste d'une division." },
-            { "number": "10", "word": "SCRIPT", "definition": "L'autre nom donné au fichier de code enregistré au format .py." },
-            { "number": "11", "word": "INPUT", "definition": "Fonction qui permet de récupérer une saisie au clavier." },
-            { "number": "12", "word": "COMMENTER", "definition": "A quoi sert le hashtag dans le code Python ?" },
-            { "number": "13", "word": "SCRATCH", "definition": "Langage de programmation par bloc qui a pour mascotte un chat orange." },
-            { "number": "14", "word": "FLOAT", "definition": "Nom du type de donné pour les nombres décimaux (avec un point à la place de la virgule)." },
-            { "number": "15", "word": "AFFECTATION", "definition": "Opération lorsqu'une variable est déclarée et qu'on y stock une valeur." },
-            { "number": "16", "word": "ASSEMBLEUR", "definition": "Langage de bas niveau qui n'est pas en binaire." }
+            { "number": "9", "word": "PYTHON", "definition": "Langage de programmation textuel." },
+            { "number": "10", "word": "MODULO", "definition": "Opérateur qui donne le reste d'une division." },
+            { "number": "11", "word": "SCRIPT", "definition": "L'autre nom donné au fichier de code enregistré au format .py." },
+            { "number": "12", "word": "INPUT", "definition": "Fonction qui permet de récupérer une saisie au clavier." },
+            { "number": "13", "word": "COMMENTER", "definition": "A quoi sert le hashtag dans le code Python ?" },
+            { "number": "14", "word": "SCRATCH", "definition": "Langage de programmation par bloc qui a pour mascotte un chat orange." },
+            { "number": "15", "word": "FLOAT", "definition": "Nom du type de donné pour les nombres décimaux (avec un point à la place de la virgule)." },
+            { "number": "16", "word": "AFFECTATION", "definition": "Opération lorsqu'une variable est déclarée et qu'on y stock une valeur." },
+            { "number": "17", "word": "ASSEMBLEUR", "definition": "Langage de bas niveau qui n'est pas en binaire." }
       ]
     },
     {
@@ -351,22 +351,22 @@
 ["","","","","","","","","N","","","","","","","","","","","","","",""]
       ],
        "definitions": [
-            			 { "number": "0", "word": "ALGORITHME", "definition": "Méthode pour résoudre un problème. Origines millénaires." },
-            { "number": "1", "word": "PYTHON", "definition": "Langage étudié" },
-            { "number": "2", "word": "INFORMATION", "definition": "Le mot informatique est composé de deux mots : ........ et automatique." },
-            { "number": "3", "word": "ASCII", "definition": "Table/code qui permet de faire correspondre un caractère en binaire." },
-            { "number": "4", "word": "LANGAGE", "definition": "Pour communiquer avec une machine on utiliser un .............. informatique." },
-            { "number": "5", "word": "PROGRAMMATION", "definition": "Un développeur informatique qui code fait de la ...................." },
-            { "number": "6", "word": "COMPILATEUR", "definition": "Sert à traduire un code source en code binaire." },
-            { "number": "7", "word": "PIXEL", "definition": "Unité la plus petite qui compose une image sur un écran." },
-            { "number": "8", "word": "DONNEES", "definition": "Un nombre entier et une chaîne de caractères sont différents types de ......." },
-            { "number": "9", "word": "GIGA", "definition": "Préfixe utilisé pour désigner un milliard d'unités." },
-            { "number": "10", "word": "BINAIRE", "definition": "Quel langage comprend l'ordinateur ?" },
-            { "number": "11", "word": "EXECUTION", "definition": "Lorsqu'on veut tester son code pour voir ce qu'il produit on clique sur le bouton d'..........." },
-            { "number": "12", "word": "OCTET", "definition": "Quelle est l'unitée utilisée pour mesurer la taille de la mémoire ?" },
-            { "number": "13", "word": "MACHINE", "definition": "Quel est le langage de plus bas niveau pour un ordinateur ?" },
-            { "number": "14", "word": "VARIABLE", "definition": "Elle sert à stocker une valeur temporairement." },
-            { "number": "15", "word": "INSTRUCTIONS", "definition": "Lorsqu'on programme on écrit une série d'.........." }
+            			 { "number": "1", "word": "ALGORITHME", "definition": "Méthode pour résoudre un problème. Origines millénaires." },
+            { "number": "2", "word": "PYTHON", "definition": "Langage étudié" },
+            { "number": "3", "word": "INFORMATION", "definition": "Le mot informatique est composé de deux mots : ........ et automatique." },
+            { "number": "4", "word": "ASCII", "definition": "Table/code qui permet de faire correspondre un caractère en binaire." },
+            { "number": "5", "word": "LANGAGE", "definition": "Pour communiquer avec une machine on utiliser un .............. informatique." },
+            { "number": "6", "word": "PROGRAMMATION", "definition": "Un développeur informatique qui code fait de la ...................." },
+            { "number": "7", "word": "COMPILATEUR", "definition": "Sert à traduire un code source en code binaire." },
+            { "number": "8", "word": "PIXEL", "definition": "Unité la plus petite qui compose une image sur un écran." },
+            { "number": "9", "word": "DONNEES", "definition": "Un nombre entier et une chaîne de caractères sont différents types de ......." },
+            { "number": "10", "word": "GIGA", "definition": "Préfixe utilisé pour désigner un milliard d'unités." },
+            { "number": "11", "word": "BINAIRE", "definition": "Quel langage comprend l'ordinateur ?" },
+            { "number": "12", "word": "EXECUTION", "definition": "Lorsqu'on veut tester son code pour voir ce qu'il produit on clique sur le bouton d'..........." },
+            { "number": "13", "word": "OCTET", "definition": "Quelle est l'unitée utilisée pour mesurer la taille de la mémoire ?" },
+            { "number": "14", "word": "MACHINE", "definition": "Quel est le langage de plus bas niveau pour un ordinateur ?" },
+            { "number": "15", "word": "VARIABLE", "definition": "Elle sert à stocker une valeur temporairement." },
+            { "number": "16", "word": "INSTRUCTIONS", "definition": "Lorsqu'on programme on écrit une série d'.........." }
       ]
     }
   ]
